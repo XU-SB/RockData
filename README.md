@@ -17,7 +17,8 @@ git clone https://github.com/XU-SB/RockData.git
 - Saturation analysis
 - Fluid substitution
 - Gassmann equation implementation
-- And more features for rock physics modeling
+- rock physics modeling
+- output elastic property: Vp, Vs and Density
 
 ## Contact
 
