@@ -1,15 +1,30 @@
+
 # RockData
-RockData is an open-source project developed by Dr. Xu Shibo, designed to provide a Python package specifically suited for rock physics model building. It offers a range of tools, including log data loading, data manipulation, saturation analysis, fluid substitution, and Gassmann equation implementation, among other essential functions for rock physics workflows.
+
+**RockData** is an open-source project developed by Dr. Xu Shibo, offering a Python package specifically designed for rock physics model building. It provides a comprehensive set of tools, including log data loading, data manipulation, saturation analysis, fluid substitution, and Gassmann equation implementation, among other essential functionalities for rock physics workflows.
 
 ## Installation
-Download the code from the repository:
 
-`git clone https://github.com/XU-SB/RockData.git`
+To install RockData, first clone the repository:
+
+```bash
+git clone https://github.com/XU-SB/RockData.git
+```
 
 ## Main Features
 
+- Log data loading and manipulation
+- Saturation analysis
+- Fluid substitution
+- Gassmann equation implementation
+- And more features for rock physics modeling
 
 ## Contact
-If you have any equaiton or find some bug for the software. Please contact the owner: xushibo11@gmail.com
 
-## The package is stall on-gong for bulild up
+For any questions or to report a bug, please contact the project owner at: xushibo11@gmail.com
+
+## Development Status
+
+The package is currently under active development, with ongoing feature additions and improvements.
+
+---
