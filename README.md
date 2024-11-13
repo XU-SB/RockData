@@ -18,7 +18,7 @@ git clone https://github.com/XU-SB/RockData.git
 - Fluid substitution
 - Gassmann equation implementation
 - rock physics modeling
-- output elastic property: Vp, Vs and Density for seismic data processing
+- output elastic property: Vp, Vs and Density for seismic response
 
 ## Contact
 
