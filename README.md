@@ -14,6 +14,16 @@ The package is running on the Linux system
 
 Please install the JupyterLab with the virtual machine for the full ustage of the package
 
+### Necessary Modules
+-numpy
+-matplotlib
+-pandas
+
+### Other Modules
+-lasio
+-nbformat
+
+
 ## Main Features
 
 - Log data loading and manipulation
